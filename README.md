@@ -9,7 +9,7 @@ https://pypi.org/project/fillpdf/
 
 
 # Overview
-This is a simple package to make filling pdfs much easier. I have delt with a lot projects that involve manipulating pdfs in python. I found no easy solution for writting, or flattening pdfs, so I decided to make a library to make this task much easier. As a young software engineer I kept this library really simple but practicle and am open to any input for the future!
+This is a simple package to make filling pdfs much easier. I have delt with a lot projects that involve manipulating pdfs in python. I found no easy solution for writting, or flattening pdfs, so I decided to make a library to make this task much easier. As a young software engineer I kept this library really simple but practical and am open to any input for the future!
 
 This project primarily builds upon a forked version of pdfrw called [pdfrw2](https://pypi.org/project/pdfrw2/).
 
